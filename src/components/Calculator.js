@@ -10,10 +10,10 @@ function Calculator() {
   });
 
   const handleResult = (event) => {
-    const name = event.target.textContent;
+    const newTotal = event.target.textContent;
     setCalcState((prev) => ({
       ...prev,
-      total: name,
+      total: newTotal,
     }));
   };
 
