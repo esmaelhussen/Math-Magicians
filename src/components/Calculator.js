@@ -4,7 +4,7 @@ function Calculator() {
   return (
     <section className="section">
       <div className="button">
-        <input type="text" className="result four-cell" placeholder="0" />
+        <input type="text" className="result four-cell" placeholder="0" readOnly />
         <button type="button" className="key">
           AC
         </button>
@@ -17,7 +17,6 @@ function Calculator() {
         <button
           type="button"
           className="key operator"
-
         >
           ÷
         </button>
