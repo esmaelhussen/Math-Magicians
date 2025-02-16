@@ -12,7 +12,7 @@ function Calculator() {
   const handleResult = (event) => {
     const newTotal = event.target.textContent;
     setCalcState((prev) => ({
-      ...prev,
+      prev,
       total: newTotal,
     }));
   };
