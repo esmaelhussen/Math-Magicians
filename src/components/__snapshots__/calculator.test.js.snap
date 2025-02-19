@@ -1,0 +1,328 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`calculator page calculator page should be render 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="w-[100%]  top-0 py-[1rem] flex items-center justify-around "
+      >
+        <h1
+          class="font-bold text-4xl "
+        >
+          Lets do some math!
+        </h1>
+        <div
+          class="grid grid-cols-[5rem_5rem_5rem_5rem]"
+        >
+          <div
+            class="col-span-4 bg-[#858694] text-right text-xl p-2 h-14 border border-solid border-[#cecdcd]"
+          >
+            0
+          </div>
+          <button
+            class="bg-[#e6e4e4] h-14 border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            AC
+          </button>
+          <button
+            class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            +/-
+          </button>
+          <button
+            class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            %
+          </button>
+          <button
+            class="key operator bg-[#ff9832] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            ÷
+          </button>
+          <button
+            class="bg-[#e6e4e4] h-14 border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            7
+          </button>
+          <button
+            class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            8
+          </button>
+          <button
+            class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            9
+          </button>
+          <button
+            class="bg-[#ff9832] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            x
+          </button>
+          <button
+            class="bg-[#e6e4e4] h-14 border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            4
+          </button>
+          <button
+            class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            5
+          </button>
+          <button
+            class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            6
+          </button>
+          <button
+            class="bg-[#ff9832] "
+            type="button"
+          >
+            -
+          </button>
+          <button
+            class="bg-[#e6e4e4] h-14 border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            1
+          </button>
+          <button
+            class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            2
+          </button>
+          <button
+            class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            3
+          </button>
+          <button
+            class="bg-[#ff9832] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            +
+          </button>
+          <button
+            class="bg-[#e6e4e4] col-span-2 h-14 border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            0
+          </button>
+          <button
+            class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            .
+          </button>
+          <button
+            class="bg-[#ff9832] border border-solid border-[#cecdcd]"
+            type="button"
+          >
+            =
+          </button>
+        </div>
+      </section>
+    </div>
+  </body>,
+  "container": <div>
+    <section
+      class="w-[100%]  top-0 py-[1rem] flex items-center justify-around "
+    >
+      <h1
+        class="font-bold text-4xl "
+      >
+        Lets do some math!
+      </h1>
+      <div
+        class="grid grid-cols-[5rem_5rem_5rem_5rem]"
+      >
+        <div
+          class="col-span-4 bg-[#858694] text-right text-xl p-2 h-14 border border-solid border-[#cecdcd]"
+        >
+          0
+        </div>
+        <button
+          class="bg-[#e6e4e4] h-14 border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          AC
+        </button>
+        <button
+          class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          +/-
+        </button>
+        <button
+          class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          %
+        </button>
+        <button
+          class="key operator bg-[#ff9832] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          ÷
+        </button>
+        <button
+          class="bg-[#e6e4e4] h-14 border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          7
+        </button>
+        <button
+          class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          8
+        </button>
+        <button
+          class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          9
+        </button>
+        <button
+          class="bg-[#ff9832] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          x
+        </button>
+        <button
+          class="bg-[#e6e4e4] h-14 border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          4
+        </button>
+        <button
+          class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          5
+        </button>
+        <button
+          class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          6
+        </button>
+        <button
+          class="bg-[#ff9832] "
+          type="button"
+        >
+          -
+        </button>
+        <button
+          class="bg-[#e6e4e4] h-14 border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          1
+        </button>
+        <button
+          class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          2
+        </button>
+        <button
+          class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          3
+        </button>
+        <button
+          class="bg-[#ff9832] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          +
+        </button>
+        <button
+          class="bg-[#e6e4e4] col-span-2 h-14 border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          0
+        </button>
+        <button
+          class="bg-[#e6e4e4] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          .
+        </button>
+        <button
+          class="bg-[#ff9832] border border-solid border-[#cecdcd]"
+          type="button"
+        >
+          =
+        </button>
+      </div>
+    </section>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
