@@ -5,7 +5,7 @@
 
 ## Live Demo
 
-Live Demo [here]()
+Live Demo [here](https://maths-magcians.netlify.app/)
 
 
 ## Built With
